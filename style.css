@@ -1,0 +1,22 @@
+.menu-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    color: #91b3bc;
+}
+
+.menu-text:hover {
+    color: #ffffff;
+}
+
+.menu-text-selected {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.2rem;
+    color: #ffffff;
+}
+
+.menu-button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.8rem;
+    color: #ffffff;
+    cursor: pointer;
+}
