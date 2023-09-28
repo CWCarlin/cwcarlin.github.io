@@ -21,13 +21,59 @@
     cursor: pointer;
 }
 
+a {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+}
+
+a:hover {
+    color: #91b3bc;
+}
+
 p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.1rem;
+    text-align: justify;
+    color: #d7dade;
+}
+
+.experience {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.95rem;
     color: #d7dade;
 }
 
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 2.8rem;
+    font-size: 2.6rem;
+    text-align: justify;
     color: #d7dade;
     background-color: #5b7d87;
+}
+
+h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.0rem;
+    text-align: justify;
+    color: #d7dade;
+    background-color: #5b7d87;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.6rem;
+    color: #d7dade;
+}
+
+h5 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.0rem;
+    color: #d7dade;
+}
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8rem;
+    text-align: justify;
+    color: #d7dade;
 }
