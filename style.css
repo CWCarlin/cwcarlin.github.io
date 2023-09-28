@@ -20,3 +20,14 @@
     color: #ffffff;
     cursor: pointer;
 }
+
+p {
+    color: #d7dade;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2.8rem;
+    color: #d7dade;
+    background-color: #5b7d87;
+}
